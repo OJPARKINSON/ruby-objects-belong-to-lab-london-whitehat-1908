@@ -1,3 +1,3 @@
 class Post 
-  attr_accessor :song
+  attr_accessor :title, :author 
 end
